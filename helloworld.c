@@ -6,4 +6,5 @@ int main(void) {
     scanf("y = %d\n", y);
     // elhwwkphoekopwhopkwko
     // fak wtf wapoifgjpoiaspokfaekpoaf
+    // awfafw
 }
