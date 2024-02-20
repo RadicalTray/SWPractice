@@ -4,4 +4,5 @@ int main(void) {
     double x, y;
     scanf("x = %d\n", x);
     scanf("y = %d\n", y);
+    // elhwwkphoekopwhopkwko
 }
