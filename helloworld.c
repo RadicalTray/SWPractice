@@ -5,4 +5,5 @@ int main(void) {
     scanf("x = %d\n", x);
     scanf("y = %d\n", y);
     // elhwwkphoekopwhopkwko
+    // fak wtf wapoifgjpoiaspokfaekpoaf
 }
